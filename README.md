@@ -1,2 +1,0 @@
-# verticalScroll
-Vertical Scrolling Example
